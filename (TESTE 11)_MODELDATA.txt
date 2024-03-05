@@ -13,8 +13,8 @@
 0.30               ! NUlinha
 78.50              ! GAMMAlinha
 0.57735            ! FRIC
--1e07              ! FKN
--1e01              ! FKT
+-1.00e07           ! FKN
+-1.00e01           ! FKT
 .02                ! discretsolo
 .002               ! discretlinha
 21                 ! npontos
@@ -27,8 +27,6 @@
 .24                ! DESLOCAx
 .18                ! DESLOCAy
 0                  ! Hagua
-0.070              ! Flinha/Daplic
-1                  ! divtime
-
+0.140              ! Flinha/Daplic
 
 !** Unidades : m, kN, rad, s                                               ***!
